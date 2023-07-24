@@ -4,16 +4,18 @@
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
     background-image: url("../images/background.jpg");
     background-repeat: repeat;
     background-size: 2000px 1200px;
+    
 }
 
 body{
     margin:0; /* removes gap at top of page */
+    
 }
 
 ::selection {
@@ -24,7 +26,7 @@ body{
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background:khaki;
     line-height: 2.5em;
 }
 /*
@@ -43,7 +45,7 @@ h1.page-header{
  
 
  main.wrapper {
-    background-color: white;
+    background-color: lightgoldenrodyellow;
     overflow: auto;
     -moz-border-radius-bottomleft: 5px;
     -moz-border-radius-bottomright: 5px;
